@@ -160,19 +160,6 @@ sf org display --target-org devhub-local --verbose
 
 Use o valor de `sfdxAuthUrl` como secret no repositório.
 
-## Imagens do README
-
-Os visuais do README foram preparados em `docs/images/`.
-
-Arquivos usados:
-
-- `docs/images/salesforce-logo.svg`
-- `docs/images/superbadge-badge.svg`
-- `docs/images/superbadge-earned.svg`
-- `docs/images/trailblazer-team.svg`
-
-Se quiser trocar pelos arquivos originais enviados no chat, basta substituir esses arquivos mantendo os mesmos nomes.
-
 ## Autor
 
 **Leandro da Silva Stampini**

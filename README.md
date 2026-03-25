@@ -1,11 +1,11 @@
 # Superbadge: Approval Process Troubleshooting
 
 <p align="center">
-  <img src="docs/images/salesforce-logo.svg" alt="Salesforce" width="180" />
+  <img src="docs/images/salesforce-logo.png" alt="Salesforce" width="180" />
 </p>
 
 <p align="center">
-  <img src="docs/images/superbadge-badge.svg" alt="Superbadge Approval Process Troubleshooting" width="180" />
+  <img src="docs/images/superbadge-badge.png" alt="Superbadge Approval Process Troubleshooting" width="180" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ O projeto foi organizado para publicar no GitHub somente:
 ## Resultado Final
 
 <p align="center">
-  <img src="docs/images/superbadge-earned.svg" alt="Superbadge concluido" width="820" />
+  <img src="docs/images/superbadge-earned.png" alt="Superbadge concluido" width="820" />
 </p>
 
 ## O Que Foi Implementado
@@ -171,7 +171,7 @@ Este projeto esta licenciado sob a [MIT License](LICENSE).
 ## Agradecimentos
 
 <p align="center">
-  <img src="docs/images/trailblazer-team.svg" alt="Trailblazer mascots" width="420" />
+  <img src="docs/images/trailblazer-team.png" alt="Trailblazer mascots" width="420" />
 </p>
 
 Construido para registrar a conclusao do superbadge e servir como portfolio tecnico de configuracao Salesforce.
